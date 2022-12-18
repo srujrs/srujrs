@@ -1,11 +1,8 @@
 ### Hi there, I am Srujan. 👋
 
-### Connect with me here -> <a href="https://www.linkedin.com/in/srujan-r-1562561b3/">
+### Connect with me -> <a href="https://www.linkedin.com/in/srujan-r-1562561b3/">
   <img align="left" alt="Srujan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<br />
-<br>
 
 ### I am currently a graduate student at Illinois Institute of Technology, Chicago, pursuing my masters in Computer Science. I am passionate and always curious about technology. So, I try to explore and experiment different softwares in my free time. 
 
