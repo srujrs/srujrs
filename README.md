@@ -1,15 +1,14 @@
 ### Hi there, I am Srujan. 👋
  
-<a href="https://www.linkedin.com/in/srujan-r-1562561b3/">
+Connect with me -> <a href="https://www.linkedin.com/in/srujan-r-1562561b3/">
   <img align="left" alt="Srujan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
 <br>
 
 ---
 
-#### I am currently a graduate student at Illinois Institute of Technology, Chicago, pursuing my masters in Computer Science. I am passionate and always curious about technology. So, I try to explore and experiment different softwares in my free time. 
+I am currently a graduate student at Illinois Institute of Technology, Chicago, pursuing my masters in Computer Science. I am passionate and always curious about technology. So, I try to explore and experiment different softwares in my free time. 
 
 <!--
 **srujrs/srujrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +32,8 @@
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+
+<br>
 
 ---
 
