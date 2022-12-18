@@ -1,6 +1,6 @@
 ### Hi there, I am Srujan. 👋
  
-Connect with me.
+<- Connect with me here
 <a href="https://www.linkedin.com/in/srujan-r-1562561b3/">
   <img align="left" alt="Srujan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -21,10 +21,23 @@ I am currently a graduate student at Illinois Institute of Technology, Chicago, 
 
 ### 🔨 Languages and Tools:
 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+<img align="left" alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
+<img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img align="left" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+
+<img align="left" alt="Jupyter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+<img align="left" alt="Tensorflow" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+<img align="left" alt="Numpy" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+<img align="left" alt="VS code" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+<img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+
+<br>
+<br>
 <br>
 
 ---
