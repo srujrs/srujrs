@@ -34,8 +34,7 @@ I am currently a graduate student at Illinois Institute of Technology, Chicago, 
 <!-- <img align="left" alt="srujrs's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=srujrs&show_icons=true&hide_border=false&theme=radical"> -->
 
 <br>
-<br>
 
-[![Srujan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username=srujrs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Srujan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srujrs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img align="left" alt="srujrs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujrs&layout=compact"> -->
