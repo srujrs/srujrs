@@ -1,10 +1,12 @@
 ### Hi there, I am Srujan. 👋
-
-### Connect with me -> <a href="https://www.linkedin.com/in/srujan-r-1562561b3/">
+ 
+<a href="https://www.linkedin.com/in/srujan-r-1562561b3/">
   <img align="left" alt="Srujan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-### I am currently a graduate student at Illinois Institute of Technology, Chicago, pursuing my masters in Computer Science. I am passionate and always curious about technology. So, I try to explore and experiment different softwares in my free time. 
+---
+
+#### I am currently a graduate student at Illinois Institute of Technology, Chicago, pursuing my masters in Computer Science. I am passionate and always curious about technology. So, I try to explore and experiment different softwares in my free time. 
 
 <!--
 **srujrs/srujrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,4 +36,6 @@
 
 ---
 
-<img align="left" alt="srujrs's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=srujrs&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25">
+<img align="left" alt="srujrs's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=srujrs&show_icons=true&hide_border=false&theme=radical">
+
+<img align="left" alt="srujrs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujrs&layout=compact">
