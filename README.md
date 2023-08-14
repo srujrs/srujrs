@@ -1,7 +1,7 @@
 ### Hi there, I am Srujan. 👋
  
 <- Connect with me here
-<a href="https://www.linkedin.com/in/srujan-r-1562561b3/">
+<a href="https://www.linkedin.com/in/srujan-r-1562561b3/](https://www.linkedin.com/in/srujan-ramesh-1562561b3/">
   <img align="left" alt="Srujan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
